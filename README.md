@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Eli 👋
 
-<!--
-**Elimartes15/Elimartes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Analyst (SecOps) → working toward Detection Engineering**
 
-Here are some ideas to get you started:
+I work in a global SecOps team protecting a multinational manufacturing/food-production environment (IT + OT). Day to day I do detection and threat hunting in KQL, I'm part of the incident response team and lead vulnerability management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I show my thinking: how I build detections, how I investigate, and the lab I use to test both.
+
+📍 New Brunswick, Canada 
+
+---
+
+### 🔎 What you'll find here
+
+| Repo | What's in it |
+|---|---|
+| [detection-engineering](./) | Detection rules (KQL / Sigma) with the hypothesis, logic, false positives, and tuning notes behind each one |
+| [investigations](./) | Incident write-ups recreated in my lab — timeline, evidence, conclusions, what I'd detect next time |
+| [home-lab](./) | Two-node lab: attack/target box + Wazuh detection box. Architecture, configs, lessons learned |
+
+
+### 🛠️ Tools I use
+
+**Detection & response:** Microsoft Sentinel · Defender XDR / MDE · KQL · Wazuh
+**Identity & cloud:** Entra ID · Intune · Azure (Logic Apps, Log Analytics, DCRs)
+**Network:** Cisco · DNS security · segmentation / microsegmentation
+**Vuln mgmt:** Nessus · OpenVAS · autonomous pentesting
+**Scripting:** Python · KQL · PowerShell
+
+### 📜 Certifications
+
+ISC2 CC · CompTIA Security+ · CompTIA CySA+
+
+### 🎯 Currently
+
+- TryHackme offensive rooms
+- Building out my home detection lab and turning each attack I run into a detection logic with Sigma
