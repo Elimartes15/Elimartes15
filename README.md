@@ -16,7 +16,7 @@ This GitHub is where I show my thinking: how I build detections, how I investiga
 |---|---|
 | [detection-engineering](./) | Detection rules (KQL / Sigma) with the hypothesis, logic, false positives, and tuning notes behind each one |
 | [investigations](./) | Incident write-ups recreated in my lab — timeline, evidence, conclusions, what I'd detect next time |
-| [home-lab](./) | Two-node lab: attack/target box + Wazuh detection box. Architecture, configs, lessons learned |
+| [home-lab](https://github.com/Elimartes15/HomeLab#purple-team-lab) | Two-node lab: attack/target box + Wazuh detection box. Architecture, configs, lessons learned |
 
 
 ### 🛠️ Tools I use
