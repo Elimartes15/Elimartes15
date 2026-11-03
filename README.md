@@ -1,6 +1,6 @@
 # Hi, I'm Eli 👋
 
-**Security Analyst (SecOps) → working toward Detection Engineering**
+**Security Analyst (SecOps) → Detection Engineering**
 
 I work in a global SecOps team protecting a multinational manufacturing/food-production environment (IT + OT). 
 This GitHub is where I show my thinking: how I build detections, how I investigate, and the lab I use to test both.
@@ -20,15 +20,15 @@ This GitHub is where I show my thinking: how I build detections, how I investiga
 
 ### 🛠️ Tools I use
 
-**Detection & response:** Microsoft Sentinel · Defender XDR / MDE · KQL · Wazuh
+**Detection & response:** Microsoft Sentinel · Defender XDR / MDE · KQL · Wazuh · ElasticSearch/Kibana
 **Identity & cloud:** Entra ID · Intune · Azure (Logic Apps, Log Analytics, DCRs)
-**Network:** Cisco · DNS security · segmentation / microsegmentation
+**Network:** Cisco · DNS security · segmentation / microsegmentation · Firewall policies
 **Vuln mgmt:** Nessus · OpenVAS · autonomous pentesting
-**Scripting:** Python · KQL · PowerShell
+**Scripting:** Python · PowerShell
 
 ### 📜 Certifications
 
-ISC2 CC · CompTIA Security+ · CompTIA CySA+
+ISC2 CC · CompTIA Security+ · CompTIA CySA+ · CSAP
 
 ### 🎯 Currently
 
